@@ -8,4 +8,4 @@ This repository contains a structured manual testing bug report and test cases c
 - **Defect Tracking Parameters:** Bug ID, Summary, Module, Severity, Priority, Steps to Reproduce, Expected vs. Actual Result.
 
 ## 📂 Repository Contents
-- `Bug_Tracker.xlsx`: Complete test execution sheet with defect classifications and test scenarios.
+- `test.xlsx`: Complete test execution sheet with defect classifications and test scenarios.
